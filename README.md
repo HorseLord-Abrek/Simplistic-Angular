@@ -17,7 +17,7 @@
 <br><br>
 -Open up any terminal (Command Line)
 <br>
--Type "npm install -g @angular/cli"
+-Type `npm install -g @angular/cli`
 <br>
 
 **That's it, Angular CLI is ready to use**
